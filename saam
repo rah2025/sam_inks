@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>سام | الروابط</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 90%;
+            max-width: 400px;
+            margin: 50px auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+        }
+        .logo {
+            width: 100px;
+            border-radius: 50%;
+            margin-bottom: 10px;
+        }
+        h1 {
+            font-size: 24px;
+            color: #333;
+        }
+        .link {
+            display: block;
+            background: #3498db;
+            color: white;
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 5px;
+            text-decoration: none;
+            transition: 0.3s;
+        }
+        .link:hover {
+            background: #2980b9;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="logo.png" alt="شعار النادي" class="logo">
+        <h1>نادي سام</h1>
+        <a href="#" class="link">📌 موقعنا الرسمي</a>
+        <a href="#" class="link">📷 انستجرام</a>
+        <a href="#" class="link">🐦 https://x.com/saam_yodtku?t=NTR2Use20dMN3D10Yi2h_Q&s=09</a>
+        <a href="#" class="link">📺 https://forms.gle/swuowrxFXFnmbot29</a>
+    </div>
+</body>
+</html>
